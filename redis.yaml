@@ -1,7 +1,0 @@
-master:
-  resources:
-    limits:
-      cpu: 200m
-      memory: 200Mi
-auth:
-  enabled: false
